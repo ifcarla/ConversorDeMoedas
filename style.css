@@ -50,7 +50,7 @@ body {
   
   h1 {
     font-family: 'Poppins', sans-serif;
-    color: #4A90E2;
+    color: #9932cc;
     margin-bottom: 30px;
   }
 
@@ -71,7 +71,7 @@ body {
   
 
   button {
-    background-color: #4A90E2;
+    background-color: #9932cc;
     color: white;
     border: none;
     padding: 12px 20px;
@@ -82,7 +82,7 @@ body {
   }
   
   button:hover {
-    background-color: #357ABD;
+    background-color: #763497;
     transform: scale(1.05);
   }
   
